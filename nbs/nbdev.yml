@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "brightseg"
+  site-url: "https://IntegratedPathologyUnit-ICR.github.io/brightseg"
+  description: "Segment tissue from brightfield histology images"
+  repo-branch: main
+  repo-url: "https://github.com/IntegratedPathologyUnit-ICR/brightseg"
